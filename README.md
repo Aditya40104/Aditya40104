@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya40104&label=Profile%20views&color=0e75b6&style=flat" alt="aditya40104" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/adityadav001" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/adityadav001?logo=twitter&style=for-the-badge" alt="https://x.com/adityadav001" /></a> </p>
-
 - 🔭 I’m currently working on **Web & AI Projects (Full-Stack + ML Integration)**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (Java), AI/ML,**
